@@ -22,7 +22,7 @@ export class NetworkClient {
 
   constructor(handlers: NetworkHandlers) {
     this.handlers = handlers;
-    this.socket = io(window.location.origin, {
+    this.socket = io(import.meta.env.VITE_SERVER_URL || window.location.origin, {
       path: '/socket.io',
       autoConnect: false,
       transports: ['websocket', 'polling'],
