@@ -1,4 +1,3 @@
-import { randomUUID } from 'node:crypto';
 import {
   BOSS_INTERVAL_MS,
   BOSSES,
@@ -268,7 +267,7 @@ export class GameWorld {
   private spawnShield() {
     if (this.shields.size >= SHIELD_SPAWN.maxCount) return;
     const pos = randInWorld();
-    const id = randomUUID();
+    const id = crypto.randomUUID();
     this.shields.set(id, {
       id,
       tier: pickWeightedShieldTier(),
@@ -280,7 +279,7 @@ export class GameWorld {
   private spawnResource() {
     if (this.resources.size >= RESOURCE_SPAWN.maxCount) return;
     const pos = randInWorld();
-    const id = randomUUID();
+    const id = crypto.randomUUID();
     this.resources.set(id, {
       id,
       type: pickWeightedResource(),
@@ -401,7 +400,7 @@ export class GameWorld {
   private spawnBoss(type: BossType, now: number) {
     const def = BOSSES[type];
     const pos = randInWorld();
-    const id = randomUUID();
+    const id = crypto.randomUUID();
     const wanderAngle = Math.random() * Math.PI * 2;
     this.bosses.set(id, {
       id,
@@ -514,7 +513,7 @@ export class GameWorld {
   private staffAttack(p: InternalPlayer, now: number) {
     const stats = heroStats(p.heroId);
     const damage = staffAttackDamage(p.heroId, PLAYER.attackDamage);
-    const id = randomUUID();
+    const id = crypto.randomUUID();
     this.projectiles.set(id, {
       id,
       ownerId: p.id,
@@ -555,7 +554,7 @@ export class GameWorld {
     const flightDist = Math.max(1, Math.hypot(tx - p.x, ty - p.y));
     const flightTime = Math.max(0.18, flightDist / power.speed);
 
-    const fxId = randomUUID();
+    const fxId = crypto.randomUUID();
     this.powerFx.set(fxId, {
       id: fxId,
       powerId: p.powerId,
@@ -749,7 +748,7 @@ export class GameWorld {
     const speed = def.projectileSpeed ?? 280;
     const ttl = def.projectileTtl ?? 1.4;
     const angle = Math.atan2(target.y - boss.y, target.x - boss.x);
-    const id = randomUUID();
+    const id = crypto.randomUUID();
     this.projectiles.set(id, {
       id,
       ownerId: boss.id,
@@ -817,11 +816,11 @@ export class GameWorld {
     const dropXp = Math.floor(p.xp * PLAYER.xpDropRatio);
     p.food -= dropFood;
     if (dropFood > 0 || dropXp > 0) {
-      const id = randomUUID();
+      const id = crypto.randomUUID();
       this.drops.set(id, { id, x: p.x, y: p.y, food: dropFood, xp: dropXp });
     }
     if (p.shieldTier) {
-      const sid = randomUUID();
+      const sid = crypto.randomUUID();
       this.shields.set(sid, { id: sid, tier: p.shieldTier, x: p.x + 18, y: p.y + 12 });
       p.shieldTier = null;
     }
