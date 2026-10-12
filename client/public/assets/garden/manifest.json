@@ -1,0 +1,639 @@
+{
+  "count": 61,
+  "sprites": [
+    {
+      "id": "tree_000",
+      "kind": "tree",
+      "file": "tree_000.png",
+      "w": 77,
+      "h": 111,
+      "x": 425,
+      "y": 20
+    },
+    {
+      "id": "tree_001",
+      "kind": "tree",
+      "file": "tree_001.png",
+      "w": 72,
+      "h": 107,
+      "x": 504,
+      "y": 24
+    },
+    {
+      "id": "structure_002",
+      "kind": "structure",
+      "file": "structure_002.png",
+      "w": 111,
+      "h": 137,
+      "x": 1101,
+      "y": 29
+    },
+    {
+      "id": "structure_003",
+      "kind": "structure",
+      "file": "structure_003.png",
+      "w": 129,
+      "h": 136,
+      "x": 1239,
+      "y": 29
+    },
+    {
+      "id": "water_004",
+      "kind": "water",
+      "file": "water_004.png",
+      "w": 135,
+      "h": 153,
+      "x": 880,
+      "y": 34
+    },
+    {
+      "id": "grass_005",
+      "kind": "grass",
+      "file": "grass_005.png",
+      "w": 73,
+      "h": 84,
+      "x": 35,
+      "y": 35
+    },
+    {
+      "id": "grass_006",
+      "kind": "grass",
+      "file": "grass_006.png",
+      "w": 83,
+      "h": 85,
+      "x": 118,
+      "y": 35
+    },
+    {
+      "id": "path_007",
+      "kind": "path",
+      "file": "path_007.png",
+      "w": 59,
+      "h": 85,
+      "x": 218,
+      "y": 35
+    },
+    {
+      "id": "tree_008",
+      "kind": "tree",
+      "file": "tree_008.png",
+      "w": 57,
+      "h": 85,
+      "x": 290,
+      "y": 35
+    },
+    {
+      "id": "water_009",
+      "kind": "water",
+      "file": "water_009.png",
+      "w": 92,
+      "h": 92,
+      "x": 679,
+      "y": 35
+    },
+    {
+      "id": "water_010",
+      "kind": "water",
+      "file": "water_010.png",
+      "w": 92,
+      "h": 93,
+      "x": 777,
+      "y": 35
+    },
+    {
+      "id": "water_011",
+      "kind": "water",
+      "file": "water_011.png",
+      "w": 57,
+      "h": 58,
+      "x": 711,
+      "y": 129
+    },
+    {
+      "id": "water_012",
+      "kind": "water",
+      "file": "water_012.png",
+      "w": 108,
+      "h": 155,
+      "x": 774,
+      "y": 129
+    },
+    {
+      "id": "water_013",
+      "kind": "water",
+      "file": "water_013.png",
+      "w": 56,
+      "h": 58,
+      "x": 711,
+      "y": 188
+    },
+    {
+      "id": "structure_014",
+      "kind": "structure",
+      "file": "structure_014.png",
+      "w": 96,
+      "h": 113,
+      "x": 965,
+      "y": 188
+    },
+    {
+      "id": "structure_015",
+      "kind": "structure",
+      "file": "structure_015.png",
+      "w": 99,
+      "h": 112,
+      "x": 1113,
+      "y": 202
+    },
+    {
+      "id": "tree_016",
+      "kind": "tree",
+      "file": "tree_016.png",
+      "w": 134,
+      "h": 71,
+      "x": 572,
+      "y": 247
+    },
+    {
+      "id": "tree_017",
+      "kind": "tree",
+      "file": "tree_017.png",
+      "w": 61,
+      "h": 68,
+      "x": 508,
+      "y": 250
+    },
+    {
+      "id": "water_018",
+      "kind": "water",
+      "file": "water_018.png",
+      "w": 60,
+      "h": 67,
+      "x": 709,
+      "y": 251
+    },
+    {
+      "id": "water_019",
+      "kind": "water",
+      "file": "water_019.png",
+      "w": 100,
+      "h": 68,
+      "x": 775,
+      "y": 284
+    },
+    {
+      "id": "tree_020",
+      "kind": "tree",
+      "file": "tree_020.png",
+      "w": 66,
+      "h": 62,
+      "x": 429,
+      "y": 321
+    },
+    {
+      "id": "crop_021",
+      "kind": "crop",
+      "file": "crop_021.png",
+      "w": 59,
+      "h": 58,
+      "x": 641,
+      "y": 321
+    },
+    {
+      "id": "bush_022",
+      "kind": "bush",
+      "file": "bush_022.png",
+      "w": 54,
+      "h": 51,
+      "x": 576,
+      "y": 327
+    },
+    {
+      "id": "crop_023",
+      "kind": "crop",
+      "file": "crop_023.png",
+      "w": 34,
+      "h": 70,
+      "x": 426,
+      "y": 384
+    },
+    {
+      "id": "crop_024",
+      "kind": "crop",
+      "file": "crop_024.png",
+      "w": 34,
+      "h": 70,
+      "x": 461,
+      "y": 384
+    },
+    {
+      "id": "flower_025",
+      "kind": "flower",
+      "file": "flower_025.png",
+      "w": 33,
+      "h": 33,
+      "x": 532,
+      "y": 384
+    },
+    {
+      "id": "structure_026",
+      "kind": "structure",
+      "file": "structure_026.png",
+      "w": 63,
+      "h": 67,
+      "x": 1131,
+      "y": 387
+    },
+    {
+      "id": "flower_027",
+      "kind": "flower",
+      "file": "flower_027.png",
+      "w": 31,
+      "h": 32,
+      "x": 499,
+      "y": 388
+    },
+    {
+      "id": "crop_028",
+      "kind": "crop",
+      "file": "crop_028.png",
+      "w": 57,
+      "h": 60,
+      "x": 641,
+      "y": 389
+    },
+    {
+      "id": "decor_029",
+      "kind": "decor",
+      "file": "decor_029.png",
+      "w": 96,
+      "h": 62,
+      "x": 773,
+      "y": 389
+    },
+    {
+      "id": "crop_030",
+      "kind": "crop",
+      "file": "crop_030.png",
+      "w": 58,
+      "h": 57,
+      "x": 572,
+      "y": 390
+    },
+    {
+      "id": "structure_031",
+      "kind": "structure",
+      "file": "structure_031.png",
+      "w": 108,
+      "h": 70,
+      "x": 950,
+      "y": 391
+    },
+    {
+      "id": "flower_032",
+      "kind": "flower",
+      "file": "flower_032.png",
+      "w": 32,
+      "h": 36,
+      "x": 533,
+      "y": 418
+    },
+    {
+      "id": "flower_033",
+      "kind": "flower",
+      "file": "flower_033.png",
+      "w": 29,
+      "h": 33,
+      "x": 498,
+      "y": 421
+    },
+    {
+      "id": "flower_034",
+      "kind": "flower",
+      "file": "flower_034.png",
+      "w": 27,
+      "h": 28,
+      "x": 464,
+      "y": 456
+    },
+    {
+      "id": "flower_035",
+      "kind": "flower",
+      "file": "flower_035.png",
+      "w": 26,
+      "h": 27,
+      "x": 430,
+      "y": 457
+    },
+    {
+      "id": "flower_036",
+      "kind": "flower",
+      "file": "flower_036.png",
+      "w": 27,
+      "h": 30,
+      "x": 430,
+      "y": 486
+    },
+    {
+      "id": "flower_037",
+      "kind": "flower",
+      "file": "flower_037.png",
+      "w": 28,
+      "h": 28,
+      "x": 463,
+      "y": 488
+    },
+    {
+      "id": "flower_038",
+      "kind": "flower",
+      "file": "flower_038.png",
+      "w": 31,
+      "h": 23,
+      "x": 429,
+      "y": 520
+    },
+    {
+      "id": "furniture_039",
+      "kind": "furniture",
+      "file": "furniture_039.png",
+      "w": 65,
+      "h": 87,
+      "x": 1130,
+      "y": 520
+    },
+    {
+      "id": "flower_040",
+      "kind": "flower",
+      "file": "flower_040.png",
+      "w": 29,
+      "h": 21,
+      "x": 463,
+      "y": 522
+    },
+    {
+      "id": "decor_041",
+      "kind": "decor",
+      "file": "decor_041.png",
+      "w": 34,
+      "h": 68,
+      "x": 426,
+      "y": 543
+    },
+    {
+      "id": "decor_042",
+      "kind": "decor",
+      "file": "decor_042.png",
+      "w": 34,
+      "h": 34,
+      "x": 461,
+      "y": 544
+    },
+    {
+      "id": "decor_043",
+      "kind": "decor",
+      "file": "decor_043.png",
+      "w": 62,
+      "h": 52,
+      "x": 640,
+      "y": 556
+    },
+    {
+      "id": "decor_044",
+      "kind": "decor",
+      "file": "decor_044.png",
+      "w": 60,
+      "h": 36,
+      "x": 569,
+      "y": 571
+    },
+    {
+      "id": "furniture_045",
+      "kind": "furniture",
+      "file": "furniture_045.png",
+      "w": 72,
+      "h": 33,
+      "x": 1197,
+      "y": 575
+    },
+    {
+      "id": "flower_046",
+      "kind": "flower",
+      "file": "flower_046.png",
+      "w": 30,
+      "h": 34,
+      "x": 462,
+      "y": 577
+    },
+    {
+      "id": "furniture_047",
+      "kind": "furniture",
+      "file": "furniture_047.png",
+      "w": 27,
+      "h": 29,
+      "x": 1237,
+      "y": 609
+    },
+    {
+      "id": "furniture_048",
+      "kind": "furniture",
+      "file": "furniture_048.png",
+      "w": 30,
+      "h": 29,
+      "x": 1201,
+      "y": 612
+    },
+    {
+      "id": "furniture_049",
+      "kind": "furniture",
+      "file": "furniture_049.png",
+      "w": 38,
+      "h": 26,
+      "x": 1302,
+      "y": 612
+    },
+    {
+      "id": "furniture_050",
+      "kind": "furniture",
+      "file": "furniture_050.png",
+      "w": 37,
+      "h": 45,
+      "x": 1267,
+      "y": 628
+    },
+    {
+      "id": "rock_051",
+      "kind": "rock",
+      "file": "rock_051.png",
+      "w": 33,
+      "h": 37,
+      "x": 669,
+      "y": 633
+    },
+    {
+      "id": "rock_052",
+      "kind": "rock",
+      "file": "rock_052.png",
+      "w": 31,
+      "h": 36,
+      "x": 567,
+      "y": 634
+    },
+    {
+      "id": "rock_053",
+      "kind": "rock",
+      "file": "rock_053.png",
+      "w": 38,
+      "h": 38,
+      "x": 985,
+      "y": 635
+    },
+    {
+      "id": "rock_054",
+      "kind": "rock",
+      "file": "rock_054.png",
+      "w": 30,
+      "h": 30,
+      "x": 1024,
+      "y": 643
+    },
+    {
+      "id": "furniture_055",
+      "kind": "furniture",
+      "file": "furniture_055.png",
+      "w": 27,
+      "h": 24,
+      "x": 1237,
+      "y": 646
+    },
+    {
+      "id": "furniture_056",
+      "kind": "furniture",
+      "file": "furniture_056.png",
+      "w": 73,
+      "h": 66,
+      "x": 1126,
+      "y": 671
+    },
+    {
+      "id": "furniture_057",
+      "kind": "furniture",
+      "file": "furniture_057.png",
+      "w": 28,
+      "h": 34,
+      "x": 1341,
+      "y": 671
+    },
+    {
+      "id": "furniture_058",
+      "kind": "furniture",
+      "file": "furniture_058.png",
+      "w": 35,
+      "h": 63,
+      "x": 1302,
+      "y": 674
+    },
+    {
+      "id": "furniture_059",
+      "kind": "furniture",
+      "file": "furniture_059.png",
+      "w": 30,
+      "h": 28,
+      "x": 1236,
+      "y": 709
+    },
+    {
+      "id": "furniture_060",
+      "kind": "furniture",
+      "file": "furniture_060.png",
+      "w": 31,
+      "h": 27,
+      "x": 1200,
+      "y": 710
+    }
+  ],
+  "byKind": {
+    "tree": [
+      "tree_000",
+      "tree_001",
+      "tree_008",
+      "tree_016",
+      "tree_017",
+      "tree_020"
+    ],
+    "structure": [
+      "structure_002",
+      "structure_003",
+      "structure_014",
+      "structure_015",
+      "structure_026",
+      "structure_031"
+    ],
+    "water": [
+      "water_004",
+      "water_009",
+      "water_010",
+      "water_011",
+      "water_012",
+      "water_013",
+      "water_018",
+      "water_019"
+    ],
+    "grass": [
+      "grass_005",
+      "grass_006"
+    ],
+    "path": [
+      "path_007"
+    ],
+    "crop": [
+      "crop_021",
+      "crop_023",
+      "crop_024",
+      "crop_028",
+      "crop_030"
+    ],
+    "bush": [
+      "bush_022"
+    ],
+    "flower": [
+      "flower_025",
+      "flower_027",
+      "flower_032",
+      "flower_033",
+      "flower_034",
+      "flower_035",
+      "flower_036",
+      "flower_037",
+      "flower_038",
+      "flower_040",
+      "flower_046"
+    ],
+    "decor": [
+      "decor_029",
+      "decor_041",
+      "decor_042",
+      "decor_043",
+      "decor_044"
+    ],
+    "furniture": [
+      "furniture_039",
+      "furniture_045",
+      "furniture_047",
+      "furniture_048",
+      "furniture_049",
+      "furniture_050",
+      "furniture_055",
+      "furniture_056",
+      "furniture_057",
+      "furniture_058",
+      "furniture_059",
+      "furniture_060"
+    ],
+    "rock": [
+      "rock_051",
+      "rock_052",
+      "rock_053",
+      "rock_054"
+    ]
+  }
+}

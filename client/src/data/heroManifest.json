@@ -1,0 +1,1546 @@
+{
+  "heroes": [
+    {
+      "id": "fallen1",
+      "anims": {
+        "idle": [
+          "fallen1_idle_000.png",
+          "fallen1_idle_001.png",
+          "fallen1_idle_002.png",
+          "fallen1_idle_003.png",
+          "fallen1_idle_004.png",
+          "fallen1_idle_005.png",
+          "fallen1_idle_006.png",
+          "fallen1_idle_007.png",
+          "fallen1_idle_008.png"
+        ],
+        "walk": [
+          "fallen1_walk_000.png",
+          "fallen1_walk_001.png",
+          "fallen1_walk_002.png",
+          "fallen1_walk_003.png",
+          "fallen1_walk_004.png",
+          "fallen1_walk_005.png",
+          "fallen1_walk_006.png",
+          "fallen1_walk_007.png",
+          "fallen1_walk_008.png",
+          "fallen1_walk_009.png",
+          "fallen1_walk_010.png",
+          "fallen1_walk_011.png"
+        ],
+        "attack": [
+          "fallen1_attack_000.png",
+          "fallen1_attack_001.png",
+          "fallen1_attack_002.png",
+          "fallen1_attack_003.png",
+          "fallen1_attack_004.png",
+          "fallen1_attack_005.png",
+          "fallen1_attack_006.png",
+          "fallen1_attack_007.png",
+          "fallen1_attack_008.png",
+          "fallen1_attack_009.png",
+          "fallen1_attack_010.png",
+          "fallen1_attack_011.png"
+        ],
+        "die": [
+          "fallen1_die_000.png",
+          "fallen1_die_001.png",
+          "fallen1_die_002.png",
+          "fallen1_die_003.png",
+          "fallen1_die_004.png",
+          "fallen1_die_005.png",
+          "fallen1_die_006.png",
+          "fallen1_die_007.png",
+          "fallen1_die_008.png",
+          "fallen1_die_009.png",
+          "fallen1_die_010.png",
+          "fallen1_die_011.png",
+          "fallen1_die_012.png",
+          "fallen1_die_013.png",
+          "fallen1_die_014.png"
+        ],
+        "hurt": [
+          "fallen1_hurt_000.png",
+          "fallen1_hurt_001.png",
+          "fallen1_hurt_002.png",
+          "fallen1_hurt_003.png",
+          "fallen1_hurt_004.png",
+          "fallen1_hurt_005.png"
+        ],
+        "cast": [
+          "fallen1_cast_000.png",
+          "fallen1_cast_001.png",
+          "fallen1_cast_002.png",
+          "fallen1_cast_003.png",
+          "fallen1_cast_004.png",
+          "fallen1_cast_005.png",
+          "fallen1_cast_006.png",
+          "fallen1_cast_007.png",
+          "fallen1_cast_008.png",
+          "fallen1_cast_009.png",
+          "fallen1_cast_010.png",
+          "fallen1_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "fallen2",
+      "anims": {
+        "idle": [
+          "fallen2_idle_000.png",
+          "fallen2_idle_001.png",
+          "fallen2_idle_002.png",
+          "fallen2_idle_003.png",
+          "fallen2_idle_004.png",
+          "fallen2_idle_005.png",
+          "fallen2_idle_006.png",
+          "fallen2_idle_007.png",
+          "fallen2_idle_008.png"
+        ],
+        "walk": [
+          "fallen2_walk_000.png",
+          "fallen2_walk_001.png",
+          "fallen2_walk_002.png",
+          "fallen2_walk_003.png",
+          "fallen2_walk_004.png",
+          "fallen2_walk_005.png",
+          "fallen2_walk_006.png",
+          "fallen2_walk_007.png",
+          "fallen2_walk_008.png",
+          "fallen2_walk_009.png",
+          "fallen2_walk_010.png",
+          "fallen2_walk_011.png"
+        ],
+        "attack": [
+          "fallen2_attack_000.png",
+          "fallen2_attack_001.png",
+          "fallen2_attack_002.png",
+          "fallen2_attack_003.png",
+          "fallen2_attack_004.png",
+          "fallen2_attack_005.png",
+          "fallen2_attack_006.png",
+          "fallen2_attack_007.png",
+          "fallen2_attack_008.png",
+          "fallen2_attack_009.png",
+          "fallen2_attack_010.png",
+          "fallen2_attack_011.png"
+        ],
+        "die": [
+          "fallen2_die_000.png",
+          "fallen2_die_001.png",
+          "fallen2_die_002.png",
+          "fallen2_die_003.png",
+          "fallen2_die_004.png",
+          "fallen2_die_005.png",
+          "fallen2_die_006.png",
+          "fallen2_die_007.png",
+          "fallen2_die_008.png",
+          "fallen2_die_009.png",
+          "fallen2_die_010.png",
+          "fallen2_die_011.png",
+          "fallen2_die_012.png",
+          "fallen2_die_013.png",
+          "fallen2_die_014.png"
+        ],
+        "hurt": [
+          "fallen2_hurt_000.png",
+          "fallen2_hurt_001.png",
+          "fallen2_hurt_002.png",
+          "fallen2_hurt_003.png",
+          "fallen2_hurt_004.png",
+          "fallen2_hurt_005.png"
+        ],
+        "cast": [
+          "fallen2_cast_000.png",
+          "fallen2_cast_001.png",
+          "fallen2_cast_002.png",
+          "fallen2_cast_003.png",
+          "fallen2_cast_004.png",
+          "fallen2_cast_005.png",
+          "fallen2_cast_006.png",
+          "fallen2_cast_007.png",
+          "fallen2_cast_008.png",
+          "fallen2_cast_009.png",
+          "fallen2_cast_010.png",
+          "fallen2_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "fallen3",
+      "anims": {
+        "idle": [
+          "fallen3_idle_000.png",
+          "fallen3_idle_001.png",
+          "fallen3_idle_002.png",
+          "fallen3_idle_003.png",
+          "fallen3_idle_004.png",
+          "fallen3_idle_005.png",
+          "fallen3_idle_006.png",
+          "fallen3_idle_007.png",
+          "fallen3_idle_008.png"
+        ],
+        "walk": [
+          "fallen3_walk_000.png",
+          "fallen3_walk_001.png",
+          "fallen3_walk_002.png",
+          "fallen3_walk_003.png",
+          "fallen3_walk_004.png",
+          "fallen3_walk_005.png",
+          "fallen3_walk_006.png",
+          "fallen3_walk_007.png",
+          "fallen3_walk_008.png",
+          "fallen3_walk_009.png",
+          "fallen3_walk_010.png",
+          "fallen3_walk_011.png"
+        ],
+        "attack": [
+          "fallen3_attack_000.png",
+          "fallen3_attack_001.png",
+          "fallen3_attack_002.png",
+          "fallen3_attack_003.png",
+          "fallen3_attack_004.png",
+          "fallen3_attack_005.png",
+          "fallen3_attack_006.png",
+          "fallen3_attack_007.png",
+          "fallen3_attack_008.png",
+          "fallen3_attack_009.png",
+          "fallen3_attack_010.png",
+          "fallen3_attack_011.png"
+        ],
+        "die": [
+          "fallen3_die_000.png",
+          "fallen3_die_001.png",
+          "fallen3_die_002.png",
+          "fallen3_die_003.png",
+          "fallen3_die_004.png",
+          "fallen3_die_005.png",
+          "fallen3_die_006.png",
+          "fallen3_die_007.png",
+          "fallen3_die_008.png",
+          "fallen3_die_009.png",
+          "fallen3_die_010.png",
+          "fallen3_die_011.png",
+          "fallen3_die_012.png",
+          "fallen3_die_013.png",
+          "fallen3_die_014.png"
+        ],
+        "hurt": [
+          "fallen3_hurt_000.png",
+          "fallen3_hurt_001.png",
+          "fallen3_hurt_002.png",
+          "fallen3_hurt_003.png",
+          "fallen3_hurt_004.png",
+          "fallen3_hurt_005.png"
+        ],
+        "cast": [
+          "fallen3_cast_000.png",
+          "fallen3_cast_001.png",
+          "fallen3_cast_002.png",
+          "fallen3_cast_003.png",
+          "fallen3_cast_004.png",
+          "fallen3_cast_005.png",
+          "fallen3_cast_006.png",
+          "fallen3_cast_007.png",
+          "fallen3_cast_008.png",
+          "fallen3_cast_009.png",
+          "fallen3_cast_010.png",
+          "fallen3_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "golem1",
+      "anims": {
+        "idle": [
+          "golem1_idle_000.png",
+          "golem1_idle_001.png",
+          "golem1_idle_002.png",
+          "golem1_idle_003.png",
+          "golem1_idle_004.png",
+          "golem1_idle_005.png",
+          "golem1_idle_006.png",
+          "golem1_idle_007.png",
+          "golem1_idle_008.png"
+        ],
+        "walk": [
+          "golem1_walk_000.png",
+          "golem1_walk_001.png",
+          "golem1_walk_002.png",
+          "golem1_walk_003.png",
+          "golem1_walk_004.png",
+          "golem1_walk_005.png",
+          "golem1_walk_006.png",
+          "golem1_walk_007.png",
+          "golem1_walk_008.png",
+          "golem1_walk_009.png",
+          "golem1_walk_010.png",
+          "golem1_walk_011.png"
+        ],
+        "attack": [
+          "golem1_attack_000.png",
+          "golem1_attack_001.png",
+          "golem1_attack_002.png",
+          "golem1_attack_003.png",
+          "golem1_attack_004.png",
+          "golem1_attack_005.png",
+          "golem1_attack_006.png",
+          "golem1_attack_007.png",
+          "golem1_attack_008.png",
+          "golem1_attack_009.png",
+          "golem1_attack_010.png",
+          "golem1_attack_011.png"
+        ],
+        "die": [
+          "golem1_die_000.png",
+          "golem1_die_001.png",
+          "golem1_die_002.png",
+          "golem1_die_003.png",
+          "golem1_die_004.png",
+          "golem1_die_005.png",
+          "golem1_die_006.png",
+          "golem1_die_007.png",
+          "golem1_die_008.png",
+          "golem1_die_009.png",
+          "golem1_die_010.png",
+          "golem1_die_011.png",
+          "golem1_die_012.png",
+          "golem1_die_013.png",
+          "golem1_die_014.png"
+        ],
+        "hurt": [
+          "golem1_hurt_000.png",
+          "golem1_hurt_001.png",
+          "golem1_hurt_002.png",
+          "golem1_hurt_003.png",
+          "golem1_hurt_004.png",
+          "golem1_hurt_005.png"
+        ],
+        "cast": [
+          "golem1_cast_000.png",
+          "golem1_cast_001.png",
+          "golem1_cast_002.png",
+          "golem1_cast_003.png",
+          "golem1_cast_004.png",
+          "golem1_cast_005.png",
+          "golem1_cast_006.png",
+          "golem1_cast_007.png",
+          "golem1_cast_008.png",
+          "golem1_cast_009.png",
+          "golem1_cast_010.png",
+          "golem1_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "golem2",
+      "anims": {
+        "idle": [
+          "golem2_idle_000.png",
+          "golem2_idle_001.png",
+          "golem2_idle_002.png",
+          "golem2_idle_003.png",
+          "golem2_idle_004.png",
+          "golem2_idle_005.png",
+          "golem2_idle_006.png",
+          "golem2_idle_007.png",
+          "golem2_idle_008.png"
+        ],
+        "walk": [
+          "golem2_walk_000.png",
+          "golem2_walk_001.png",
+          "golem2_walk_002.png",
+          "golem2_walk_003.png",
+          "golem2_walk_004.png",
+          "golem2_walk_005.png",
+          "golem2_walk_006.png",
+          "golem2_walk_007.png",
+          "golem2_walk_008.png",
+          "golem2_walk_009.png",
+          "golem2_walk_010.png",
+          "golem2_walk_011.png"
+        ],
+        "attack": [
+          "golem2_attack_000.png",
+          "golem2_attack_001.png",
+          "golem2_attack_002.png",
+          "golem2_attack_003.png",
+          "golem2_attack_004.png",
+          "golem2_attack_005.png",
+          "golem2_attack_006.png",
+          "golem2_attack_007.png",
+          "golem2_attack_008.png",
+          "golem2_attack_009.png",
+          "golem2_attack_010.png",
+          "golem2_attack_011.png"
+        ],
+        "die": [
+          "golem2_die_000.png",
+          "golem2_die_001.png",
+          "golem2_die_002.png",
+          "golem2_die_003.png",
+          "golem2_die_004.png",
+          "golem2_die_005.png",
+          "golem2_die_006.png",
+          "golem2_die_007.png",
+          "golem2_die_008.png",
+          "golem2_die_009.png",
+          "golem2_die_010.png",
+          "golem2_die_011.png",
+          "golem2_die_012.png",
+          "golem2_die_013.png",
+          "golem2_die_014.png"
+        ],
+        "hurt": [
+          "golem2_hurt_000.png",
+          "golem2_hurt_001.png",
+          "golem2_hurt_002.png",
+          "golem2_hurt_003.png",
+          "golem2_hurt_004.png",
+          "golem2_hurt_005.png"
+        ],
+        "cast": [
+          "golem2_cast_000.png",
+          "golem2_cast_001.png",
+          "golem2_cast_002.png",
+          "golem2_cast_003.png",
+          "golem2_cast_004.png",
+          "golem2_cast_005.png",
+          "golem2_cast_006.png",
+          "golem2_cast_007.png",
+          "golem2_cast_008.png",
+          "golem2_cast_009.png",
+          "golem2_cast_010.png",
+          "golem2_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "golem3",
+      "anims": {
+        "idle": [
+          "golem3_idle_000.png",
+          "golem3_idle_001.png",
+          "golem3_idle_002.png",
+          "golem3_idle_003.png",
+          "golem3_idle_004.png",
+          "golem3_idle_005.png",
+          "golem3_idle_006.png",
+          "golem3_idle_007.png",
+          "golem3_idle_008.png"
+        ],
+        "walk": [
+          "golem3_walk_000.png",
+          "golem3_walk_001.png",
+          "golem3_walk_002.png",
+          "golem3_walk_003.png",
+          "golem3_walk_004.png",
+          "golem3_walk_005.png",
+          "golem3_walk_006.png",
+          "golem3_walk_007.png",
+          "golem3_walk_008.png",
+          "golem3_walk_009.png",
+          "golem3_walk_010.png",
+          "golem3_walk_011.png"
+        ],
+        "attack": [
+          "golem3_attack_000.png",
+          "golem3_attack_001.png",
+          "golem3_attack_002.png",
+          "golem3_attack_003.png",
+          "golem3_attack_004.png",
+          "golem3_attack_005.png",
+          "golem3_attack_006.png",
+          "golem3_attack_007.png",
+          "golem3_attack_008.png",
+          "golem3_attack_009.png",
+          "golem3_attack_010.png",
+          "golem3_attack_011.png"
+        ],
+        "die": [
+          "golem3_die_000.png",
+          "golem3_die_001.png",
+          "golem3_die_002.png",
+          "golem3_die_003.png",
+          "golem3_die_004.png",
+          "golem3_die_005.png",
+          "golem3_die_006.png",
+          "golem3_die_007.png",
+          "golem3_die_008.png",
+          "golem3_die_009.png",
+          "golem3_die_010.png",
+          "golem3_die_011.png",
+          "golem3_die_012.png",
+          "golem3_die_013.png",
+          "golem3_die_014.png"
+        ],
+        "hurt": [
+          "golem3_hurt_000.png",
+          "golem3_hurt_001.png",
+          "golem3_hurt_002.png",
+          "golem3_hurt_003.png",
+          "golem3_hurt_004.png",
+          "golem3_hurt_005.png"
+        ],
+        "cast": [
+          "golem3_cast_000.png",
+          "golem3_cast_001.png",
+          "golem3_cast_002.png",
+          "golem3_cast_003.png",
+          "golem3_cast_004.png",
+          "golem3_cast_005.png",
+          "golem3_cast_006.png",
+          "golem3_cast_007.png",
+          "golem3_cast_008.png",
+          "golem3_cast_009.png",
+          "golem3_cast_010.png",
+          "golem3_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "reaper1",
+      "anims": {
+        "idle": [
+          "reaper1_idle_000.png",
+          "reaper1_idle_001.png",
+          "reaper1_idle_002.png",
+          "reaper1_idle_003.png",
+          "reaper1_idle_004.png",
+          "reaper1_idle_005.png",
+          "reaper1_idle_006.png",
+          "reaper1_idle_007.png",
+          "reaper1_idle_008.png"
+        ],
+        "walk": [
+          "reaper1_walk_000.png",
+          "reaper1_walk_001.png",
+          "reaper1_walk_002.png",
+          "reaper1_walk_003.png",
+          "reaper1_walk_004.png",
+          "reaper1_walk_005.png",
+          "reaper1_walk_006.png",
+          "reaper1_walk_007.png",
+          "reaper1_walk_008.png",
+          "reaper1_walk_009.png",
+          "reaper1_walk_010.png",
+          "reaper1_walk_011.png"
+        ],
+        "attack": [
+          "reaper1_attack_000.png",
+          "reaper1_attack_001.png",
+          "reaper1_attack_002.png",
+          "reaper1_attack_003.png",
+          "reaper1_attack_004.png",
+          "reaper1_attack_005.png",
+          "reaper1_attack_006.png",
+          "reaper1_attack_007.png",
+          "reaper1_attack_008.png",
+          "reaper1_attack_009.png",
+          "reaper1_attack_010.png",
+          "reaper1_attack_011.png"
+        ],
+        "die": [
+          "reaper1_die_000.png",
+          "reaper1_die_001.png",
+          "reaper1_die_002.png",
+          "reaper1_die_003.png",
+          "reaper1_die_004.png",
+          "reaper1_die_005.png",
+          "reaper1_die_006.png",
+          "reaper1_die_007.png",
+          "reaper1_die_008.png",
+          "reaper1_die_009.png",
+          "reaper1_die_010.png",
+          "reaper1_die_011.png",
+          "reaper1_die_012.png",
+          "reaper1_die_013.png",
+          "reaper1_die_014.png"
+        ],
+        "hurt": [
+          "reaper1_hurt_000.png",
+          "reaper1_hurt_001.png",
+          "reaper1_hurt_002.png",
+          "reaper1_hurt_003.png",
+          "reaper1_hurt_004.png",
+          "reaper1_hurt_005.png"
+        ],
+        "cast": [
+          "reaper1_cast_000.png",
+          "reaper1_cast_001.png",
+          "reaper1_cast_002.png",
+          "reaper1_cast_003.png",
+          "reaper1_cast_004.png",
+          "reaper1_cast_005.png",
+          "reaper1_cast_006.png",
+          "reaper1_cast_007.png",
+          "reaper1_cast_008.png",
+          "reaper1_cast_009.png",
+          "reaper1_cast_010.png",
+          "reaper1_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "reaper2",
+      "anims": {
+        "idle": [
+          "reaper2_idle_000.png",
+          "reaper2_idle_001.png",
+          "reaper2_idle_002.png",
+          "reaper2_idle_003.png",
+          "reaper2_idle_004.png",
+          "reaper2_idle_005.png",
+          "reaper2_idle_006.png",
+          "reaper2_idle_007.png",
+          "reaper2_idle_008.png"
+        ],
+        "walk": [
+          "reaper2_walk_000.png",
+          "reaper2_walk_001.png",
+          "reaper2_walk_002.png",
+          "reaper2_walk_003.png",
+          "reaper2_walk_004.png",
+          "reaper2_walk_005.png",
+          "reaper2_walk_006.png",
+          "reaper2_walk_007.png",
+          "reaper2_walk_008.png",
+          "reaper2_walk_009.png",
+          "reaper2_walk_010.png",
+          "reaper2_walk_011.png"
+        ],
+        "attack": [
+          "reaper2_attack_000.png",
+          "reaper2_attack_001.png",
+          "reaper2_attack_002.png",
+          "reaper2_attack_003.png",
+          "reaper2_attack_004.png",
+          "reaper2_attack_005.png",
+          "reaper2_attack_006.png",
+          "reaper2_attack_007.png",
+          "reaper2_attack_008.png",
+          "reaper2_attack_009.png",
+          "reaper2_attack_010.png",
+          "reaper2_attack_011.png"
+        ],
+        "die": [
+          "reaper2_die_000.png",
+          "reaper2_die_001.png",
+          "reaper2_die_002.png",
+          "reaper2_die_003.png",
+          "reaper2_die_004.png",
+          "reaper2_die_005.png",
+          "reaper2_die_006.png",
+          "reaper2_die_007.png",
+          "reaper2_die_008.png",
+          "reaper2_die_009.png",
+          "reaper2_die_010.png",
+          "reaper2_die_011.png",
+          "reaper2_die_012.png",
+          "reaper2_die_013.png",
+          "reaper2_die_014.png"
+        ],
+        "hurt": [
+          "reaper2_hurt_000.png",
+          "reaper2_hurt_001.png",
+          "reaper2_hurt_002.png",
+          "reaper2_hurt_003.png",
+          "reaper2_hurt_004.png",
+          "reaper2_hurt_005.png"
+        ],
+        "cast": [
+          "reaper2_cast_000.png",
+          "reaper2_cast_001.png",
+          "reaper2_cast_002.png",
+          "reaper2_cast_003.png",
+          "reaper2_cast_004.png",
+          "reaper2_cast_005.png",
+          "reaper2_cast_006.png",
+          "reaper2_cast_007.png",
+          "reaper2_cast_008.png",
+          "reaper2_cast_009.png",
+          "reaper2_cast_010.png",
+          "reaper2_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "reaper3",
+      "anims": {
+        "idle": [
+          "reaper3_idle_000.png",
+          "reaper3_idle_001.png",
+          "reaper3_idle_002.png",
+          "reaper3_idle_003.png",
+          "reaper3_idle_004.png",
+          "reaper3_idle_005.png",
+          "reaper3_idle_006.png",
+          "reaper3_idle_007.png",
+          "reaper3_idle_008.png"
+        ],
+        "walk": [
+          "reaper3_walk_000.png",
+          "reaper3_walk_001.png",
+          "reaper3_walk_002.png",
+          "reaper3_walk_003.png",
+          "reaper3_walk_004.png",
+          "reaper3_walk_005.png",
+          "reaper3_walk_006.png",
+          "reaper3_walk_007.png",
+          "reaper3_walk_008.png",
+          "reaper3_walk_009.png",
+          "reaper3_walk_010.png",
+          "reaper3_walk_011.png"
+        ],
+        "attack": [
+          "reaper3_attack_000.png",
+          "reaper3_attack_001.png",
+          "reaper3_attack_002.png",
+          "reaper3_attack_003.png",
+          "reaper3_attack_004.png",
+          "reaper3_attack_005.png",
+          "reaper3_attack_006.png",
+          "reaper3_attack_007.png",
+          "reaper3_attack_008.png",
+          "reaper3_attack_009.png",
+          "reaper3_attack_010.png",
+          "reaper3_attack_011.png"
+        ],
+        "die": [
+          "reaper3_die_000.png",
+          "reaper3_die_001.png",
+          "reaper3_die_002.png",
+          "reaper3_die_003.png",
+          "reaper3_die_004.png",
+          "reaper3_die_005.png",
+          "reaper3_die_006.png",
+          "reaper3_die_007.png",
+          "reaper3_die_008.png",
+          "reaper3_die_009.png",
+          "reaper3_die_010.png",
+          "reaper3_die_011.png",
+          "reaper3_die_012.png",
+          "reaper3_die_013.png",
+          "reaper3_die_014.png"
+        ],
+        "hurt": [
+          "reaper3_hurt_000.png",
+          "reaper3_hurt_001.png",
+          "reaper3_hurt_002.png",
+          "reaper3_hurt_003.png",
+          "reaper3_hurt_004.png",
+          "reaper3_hurt_005.png"
+        ],
+        "cast": [
+          "reaper3_cast_000.png",
+          "reaper3_cast_001.png",
+          "reaper3_cast_002.png",
+          "reaper3_cast_003.png",
+          "reaper3_cast_004.png",
+          "reaper3_cast_005.png",
+          "reaper3_cast_006.png",
+          "reaper3_cast_007.png",
+          "reaper3_cast_008.png",
+          "reaper3_cast_009.png",
+          "reaper3_cast_010.png",
+          "reaper3_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "valk1",
+      "anims": {
+        "idle": [
+          "valk1_idle_000.png",
+          "valk1_idle_001.png",
+          "valk1_idle_002.png",
+          "valk1_idle_003.png",
+          "valk1_idle_004.png",
+          "valk1_idle_005.png",
+          "valk1_idle_006.png",
+          "valk1_idle_007.png",
+          "valk1_idle_008.png"
+        ],
+        "walk": [
+          "valk1_walk_000.png",
+          "valk1_walk_001.png",
+          "valk1_walk_002.png",
+          "valk1_walk_003.png",
+          "valk1_walk_004.png",
+          "valk1_walk_005.png",
+          "valk1_walk_006.png",
+          "valk1_walk_007.png",
+          "valk1_walk_008.png",
+          "valk1_walk_009.png",
+          "valk1_walk_010.png",
+          "valk1_walk_011.png"
+        ],
+        "attack": [
+          "valk1_attack_000.png",
+          "valk1_attack_001.png",
+          "valk1_attack_002.png",
+          "valk1_attack_003.png",
+          "valk1_attack_004.png",
+          "valk1_attack_005.png",
+          "valk1_attack_006.png",
+          "valk1_attack_007.png",
+          "valk1_attack_008.png",
+          "valk1_attack_009.png",
+          "valk1_attack_010.png",
+          "valk1_attack_011.png"
+        ],
+        "die": [
+          "valk1_die_000.png",
+          "valk1_die_001.png",
+          "valk1_die_002.png",
+          "valk1_die_003.png",
+          "valk1_die_004.png",
+          "valk1_die_005.png",
+          "valk1_die_006.png",
+          "valk1_die_007.png",
+          "valk1_die_008.png",
+          "valk1_die_009.png",
+          "valk1_die_010.png",
+          "valk1_die_011.png",
+          "valk1_die_012.png",
+          "valk1_die_013.png",
+          "valk1_die_014.png"
+        ],
+        "hurt": [
+          "valk1_hurt_000.png",
+          "valk1_hurt_001.png",
+          "valk1_hurt_002.png",
+          "valk1_hurt_003.png",
+          "valk1_hurt_004.png",
+          "valk1_hurt_005.png"
+        ],
+        "cast": [
+          "valk1_cast_000.png",
+          "valk1_cast_001.png",
+          "valk1_cast_002.png",
+          "valk1_cast_003.png",
+          "valk1_cast_004.png",
+          "valk1_cast_005.png",
+          "valk1_cast_006.png",
+          "valk1_cast_007.png",
+          "valk1_cast_008.png",
+          "valk1_cast_009.png",
+          "valk1_cast_010.png",
+          "valk1_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "valk2",
+      "anims": {
+        "idle": [
+          "valk2_idle_000.png",
+          "valk2_idle_001.png",
+          "valk2_idle_002.png",
+          "valk2_idle_003.png",
+          "valk2_idle_004.png",
+          "valk2_idle_005.png",
+          "valk2_idle_006.png",
+          "valk2_idle_007.png",
+          "valk2_idle_008.png"
+        ],
+        "walk": [
+          "valk2_walk_000.png",
+          "valk2_walk_001.png",
+          "valk2_walk_002.png",
+          "valk2_walk_003.png",
+          "valk2_walk_004.png",
+          "valk2_walk_005.png",
+          "valk2_walk_006.png",
+          "valk2_walk_007.png",
+          "valk2_walk_008.png",
+          "valk2_walk_009.png",
+          "valk2_walk_010.png",
+          "valk2_walk_011.png"
+        ],
+        "attack": [
+          "valk2_attack_000.png",
+          "valk2_attack_001.png",
+          "valk2_attack_002.png",
+          "valk2_attack_003.png",
+          "valk2_attack_004.png",
+          "valk2_attack_005.png",
+          "valk2_attack_006.png",
+          "valk2_attack_007.png",
+          "valk2_attack_008.png",
+          "valk2_attack_009.png",
+          "valk2_attack_010.png",
+          "valk2_attack_011.png"
+        ],
+        "die": [
+          "valk2_die_000.png",
+          "valk2_die_001.png",
+          "valk2_die_002.png",
+          "valk2_die_003.png",
+          "valk2_die_004.png",
+          "valk2_die_005.png",
+          "valk2_die_006.png",
+          "valk2_die_007.png",
+          "valk2_die_008.png",
+          "valk2_die_009.png",
+          "valk2_die_010.png",
+          "valk2_die_011.png",
+          "valk2_die_012.png",
+          "valk2_die_013.png",
+          "valk2_die_014.png"
+        ],
+        "hurt": [
+          "valk2_hurt_000.png",
+          "valk2_hurt_001.png",
+          "valk2_hurt_002.png",
+          "valk2_hurt_003.png",
+          "valk2_hurt_004.png",
+          "valk2_hurt_005.png"
+        ],
+        "cast": [
+          "valk2_cast_000.png",
+          "valk2_cast_001.png",
+          "valk2_cast_002.png",
+          "valk2_cast_003.png",
+          "valk2_cast_004.png",
+          "valk2_cast_005.png",
+          "valk2_cast_006.png",
+          "valk2_cast_007.png",
+          "valk2_cast_008.png",
+          "valk2_cast_009.png",
+          "valk2_cast_010.png",
+          "valk2_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "valk3",
+      "anims": {
+        "idle": [
+          "valk3_idle_000.png",
+          "valk3_idle_001.png",
+          "valk3_idle_002.png",
+          "valk3_idle_003.png",
+          "valk3_idle_004.png",
+          "valk3_idle_005.png",
+          "valk3_idle_006.png",
+          "valk3_idle_007.png",
+          "valk3_idle_008.png"
+        ],
+        "walk": [
+          "valk3_walk_000.png",
+          "valk3_walk_001.png",
+          "valk3_walk_002.png",
+          "valk3_walk_003.png",
+          "valk3_walk_004.png",
+          "valk3_walk_005.png",
+          "valk3_walk_006.png",
+          "valk3_walk_007.png",
+          "valk3_walk_008.png",
+          "valk3_walk_009.png",
+          "valk3_walk_010.png",
+          "valk3_walk_011.png"
+        ],
+        "attack": [
+          "valk3_attack_000.png",
+          "valk3_attack_001.png",
+          "valk3_attack_002.png",
+          "valk3_attack_003.png",
+          "valk3_attack_004.png",
+          "valk3_attack_005.png",
+          "valk3_attack_006.png",
+          "valk3_attack_007.png",
+          "valk3_attack_008.png",
+          "valk3_attack_009.png",
+          "valk3_attack_010.png",
+          "valk3_attack_011.png"
+        ],
+        "die": [
+          "valk3_die_000.png",
+          "valk3_die_001.png",
+          "valk3_die_002.png",
+          "valk3_die_003.png",
+          "valk3_die_004.png",
+          "valk3_die_005.png",
+          "valk3_die_006.png",
+          "valk3_die_007.png",
+          "valk3_die_008.png",
+          "valk3_die_009.png",
+          "valk3_die_010.png",
+          "valk3_die_011.png",
+          "valk3_die_012.png",
+          "valk3_die_013.png",
+          "valk3_die_014.png"
+        ],
+        "hurt": [
+          "valk3_hurt_000.png",
+          "valk3_hurt_001.png",
+          "valk3_hurt_002.png",
+          "valk3_hurt_003.png",
+          "valk3_hurt_004.png",
+          "valk3_hurt_005.png"
+        ],
+        "cast": [
+          "valk3_cast_000.png",
+          "valk3_cast_001.png",
+          "valk3_cast_002.png",
+          "valk3_cast_003.png",
+          "valk3_cast_004.png",
+          "valk3_cast_005.png",
+          "valk3_cast_006.png",
+          "valk3_cast_007.png",
+          "valk3_cast_008.png",
+          "valk3_cast_009.png",
+          "valk3_cast_010.png",
+          "valk3_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "oracle1",
+      "anims": {
+        "idle": [
+          "oracle1_idle_000.png",
+          "oracle1_idle_001.png",
+          "oracle1_idle_002.png",
+          "oracle1_idle_003.png",
+          "oracle1_idle_004.png",
+          "oracle1_idle_005.png",
+          "oracle1_idle_006.png",
+          "oracle1_idle_007.png",
+          "oracle1_idle_008.png"
+        ],
+        "walk": [
+          "oracle1_walk_000.png",
+          "oracle1_walk_001.png",
+          "oracle1_walk_002.png",
+          "oracle1_walk_003.png",
+          "oracle1_walk_004.png",
+          "oracle1_walk_005.png",
+          "oracle1_walk_006.png",
+          "oracle1_walk_007.png",
+          "oracle1_walk_008.png",
+          "oracle1_walk_009.png",
+          "oracle1_walk_010.png",
+          "oracle1_walk_011.png"
+        ],
+        "attack": [
+          "oracle1_attack_000.png",
+          "oracle1_attack_001.png",
+          "oracle1_attack_002.png",
+          "oracle1_attack_003.png",
+          "oracle1_attack_004.png",
+          "oracle1_attack_005.png",
+          "oracle1_attack_006.png",
+          "oracle1_attack_007.png",
+          "oracle1_attack_008.png",
+          "oracle1_attack_009.png",
+          "oracle1_attack_010.png",
+          "oracle1_attack_011.png"
+        ],
+        "die": [
+          "oracle1_die_000.png",
+          "oracle1_die_001.png",
+          "oracle1_die_002.png",
+          "oracle1_die_003.png",
+          "oracle1_die_004.png",
+          "oracle1_die_005.png",
+          "oracle1_die_006.png",
+          "oracle1_die_007.png",
+          "oracle1_die_008.png",
+          "oracle1_die_009.png",
+          "oracle1_die_010.png",
+          "oracle1_die_011.png",
+          "oracle1_die_012.png",
+          "oracle1_die_013.png",
+          "oracle1_die_014.png"
+        ],
+        "hurt": [
+          "oracle1_hurt_000.png",
+          "oracle1_hurt_001.png",
+          "oracle1_hurt_002.png",
+          "oracle1_hurt_003.png",
+          "oracle1_hurt_004.png",
+          "oracle1_hurt_005.png"
+        ],
+        "cast": [
+          "oracle1_cast_000.png",
+          "oracle1_cast_001.png",
+          "oracle1_cast_002.png",
+          "oracle1_cast_003.png",
+          "oracle1_cast_004.png",
+          "oracle1_cast_005.png",
+          "oracle1_cast_006.png",
+          "oracle1_cast_007.png",
+          "oracle1_cast_008.png",
+          "oracle1_cast_009.png",
+          "oracle1_cast_010.png",
+          "oracle1_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "oracle2",
+      "anims": {
+        "idle": [
+          "oracle2_idle_000.png",
+          "oracle2_idle_001.png",
+          "oracle2_idle_002.png",
+          "oracle2_idle_003.png",
+          "oracle2_idle_004.png",
+          "oracle2_idle_005.png",
+          "oracle2_idle_006.png",
+          "oracle2_idle_007.png",
+          "oracle2_idle_008.png"
+        ],
+        "walk": [
+          "oracle2_walk_000.png",
+          "oracle2_walk_001.png",
+          "oracle2_walk_002.png",
+          "oracle2_walk_003.png",
+          "oracle2_walk_004.png",
+          "oracle2_walk_005.png",
+          "oracle2_walk_006.png",
+          "oracle2_walk_007.png",
+          "oracle2_walk_008.png",
+          "oracle2_walk_009.png",
+          "oracle2_walk_010.png",
+          "oracle2_walk_011.png"
+        ],
+        "attack": [
+          "oracle2_attack_000.png",
+          "oracle2_attack_001.png",
+          "oracle2_attack_002.png",
+          "oracle2_attack_003.png",
+          "oracle2_attack_004.png",
+          "oracle2_attack_005.png",
+          "oracle2_attack_006.png",
+          "oracle2_attack_007.png",
+          "oracle2_attack_008.png",
+          "oracle2_attack_009.png",
+          "oracle2_attack_010.png",
+          "oracle2_attack_011.png"
+        ],
+        "die": [
+          "oracle2_die_000.png",
+          "oracle2_die_001.png",
+          "oracle2_die_002.png",
+          "oracle2_die_003.png",
+          "oracle2_die_004.png",
+          "oracle2_die_005.png",
+          "oracle2_die_006.png",
+          "oracle2_die_007.png",
+          "oracle2_die_008.png",
+          "oracle2_die_009.png",
+          "oracle2_die_010.png",
+          "oracle2_die_011.png",
+          "oracle2_die_012.png",
+          "oracle2_die_013.png",
+          "oracle2_die_014.png"
+        ],
+        "hurt": [
+          "oracle2_hurt_000.png",
+          "oracle2_hurt_001.png",
+          "oracle2_hurt_002.png",
+          "oracle2_hurt_003.png",
+          "oracle2_hurt_004.png",
+          "oracle2_hurt_005.png"
+        ],
+        "cast": [
+          "oracle2_cast_000.png",
+          "oracle2_cast_001.png",
+          "oracle2_cast_002.png",
+          "oracle2_cast_003.png",
+          "oracle2_cast_004.png",
+          "oracle2_cast_005.png",
+          "oracle2_cast_006.png",
+          "oracle2_cast_007.png",
+          "oracle2_cast_008.png",
+          "oracle2_cast_009.png",
+          "oracle2_cast_010.png",
+          "oracle2_cast_011.png"
+        ]
+      }
+    },
+    {
+      "id": "oracle3",
+      "anims": {
+        "idle": [
+          "oracle3_idle_000.png",
+          "oracle3_idle_001.png",
+          "oracle3_idle_002.png",
+          "oracle3_idle_003.png",
+          "oracle3_idle_004.png",
+          "oracle3_idle_005.png",
+          "oracle3_idle_006.png",
+          "oracle3_idle_007.png",
+          "oracle3_idle_008.png"
+        ],
+        "walk": [
+          "oracle3_walk_000.png",
+          "oracle3_walk_001.png",
+          "oracle3_walk_002.png",
+          "oracle3_walk_003.png",
+          "oracle3_walk_004.png",
+          "oracle3_walk_005.png",
+          "oracle3_walk_006.png",
+          "oracle3_walk_007.png",
+          "oracle3_walk_008.png",
+          "oracle3_walk_009.png",
+          "oracle3_walk_010.png",
+          "oracle3_walk_011.png"
+        ],
+        "attack": [
+          "oracle3_attack_000.png",
+          "oracle3_attack_001.png",
+          "oracle3_attack_002.png",
+          "oracle3_attack_003.png",
+          "oracle3_attack_004.png",
+          "oracle3_attack_005.png",
+          "oracle3_attack_006.png",
+          "oracle3_attack_007.png",
+          "oracle3_attack_008.png",
+          "oracle3_attack_009.png",
+          "oracle3_attack_010.png",
+          "oracle3_attack_011.png"
+        ],
+        "die": [
+          "oracle3_die_000.png",
+          "oracle3_die_001.png",
+          "oracle3_die_002.png",
+          "oracle3_die_003.png",
+          "oracle3_die_004.png",
+          "oracle3_die_005.png",
+          "oracle3_die_006.png",
+          "oracle3_die_007.png",
+          "oracle3_die_008.png",
+          "oracle3_die_009.png",
+          "oracle3_die_010.png",
+          "oracle3_die_011.png",
+          "oracle3_die_012.png",
+          "oracle3_die_013.png",
+          "oracle3_die_014.png"
+        ],
+        "hurt": [
+          "oracle3_hurt_000.png",
+          "oracle3_hurt_001.png",
+          "oracle3_hurt_002.png",
+          "oracle3_hurt_003.png",
+          "oracle3_hurt_004.png",
+          "oracle3_hurt_005.png"
+        ],
+        "cast": [
+          "oracle3_cast_000.png",
+          "oracle3_cast_001.png",
+          "oracle3_cast_002.png",
+          "oracle3_cast_003.png",
+          "oracle3_cast_004.png",
+          "oracle3_cast_005.png",
+          "oracle3_cast_006.png",
+          "oracle3_cast_007.png",
+          "oracle3_cast_008.png",
+          "oracle3_cast_009.png",
+          "oracle3_cast_010.png",
+          "oracle3_cast_011.png"
+        ]
+      }
+    }
+  ],
+  "powers": [
+    {
+      "id": "power1",
+      "name": "Poder 1",
+      "frames": [
+        "power1_000.png",
+        "power1_001.png",
+        "power1_002.png",
+        "power1_003.png",
+        "power1_004.png",
+        "power1_005.png",
+        "power1_006.png",
+        "power1_007.png",
+        "power1_008.png",
+        "power1_009.png"
+      ]
+    },
+    {
+      "id": "power2",
+      "name": "Poder 2",
+      "frames": [
+        "power2_000.png",
+        "power2_001.png",
+        "power2_002.png",
+        "power2_003.png",
+        "power2_004.png",
+        "power2_005.png",
+        "power2_006.png",
+        "power2_007.png",
+        "power2_008.png",
+        "power2_009.png"
+      ]
+    },
+    {
+      "id": "power3",
+      "name": "Poder 3",
+      "frames": [
+        "power3_000.png",
+        "power3_001.png",
+        "power3_002.png",
+        "power3_003.png",
+        "power3_004.png",
+        "power3_005.png",
+        "power3_006.png",
+        "power3_007.png",
+        "power3_008.png",
+        "power3_009.png"
+      ]
+    },
+    {
+      "id": "power4",
+      "name": "Poder 4",
+      "frames": [
+        "power4_000.png",
+        "power4_001.png",
+        "power4_002.png",
+        "power4_003.png",
+        "power4_004.png",
+        "power4_005.png"
+      ]
+    },
+    {
+      "id": "power5",
+      "name": "Poder 5",
+      "frames": [
+        "power5_000.png",
+        "power5_001.png",
+        "power5_002.png",
+        "power5_003.png",
+        "power5_004.png",
+        "power5_005.png",
+        "power5_006.png",
+        "power5_007.png",
+        "power5_008.png",
+        "power5_009.png"
+      ]
+    },
+    {
+      "id": "power6",
+      "name": "Poder 6",
+      "frames": [
+        "power6_000.png",
+        "power6_001.png",
+        "power6_002.png",
+        "power6_003.png",
+        "power6_004.png",
+        "power6_005.png",
+        "power6_006.png",
+        "power6_007.png",
+        "power6_008.png",
+        "power6_009.png"
+      ]
+    },
+    {
+      "id": "power7",
+      "name": "Poder 7",
+      "frames": [
+        "power7_000.png",
+        "power7_001.png",
+        "power7_002.png",
+        "power7_003.png",
+        "power7_004.png",
+        "power7_005.png",
+        "power7_006.png",
+        "power7_007.png",
+        "power7_008.png",
+        "power7_009.png"
+      ]
+    },
+    {
+      "id": "power8",
+      "name": "Poder 8",
+      "frames": [
+        "power8_000.png",
+        "power8_001.png",
+        "power8_002.png",
+        "power8_003.png",
+        "power8_004.png",
+        "power8_005.png",
+        "power8_006.png",
+        "power8_007.png",
+        "power8_008.png",
+        "power8_009.png"
+      ]
+    },
+    {
+      "id": "power9",
+      "name": "Poder 9",
+      "frames": [
+        "power9_000.png",
+        "power9_001.png",
+        "power9_002.png",
+        "power9_003.png",
+        "power9_004.png",
+        "power9_005.png",
+        "power9_006.png",
+        "power9_007.png",
+        "power9_008.png",
+        "power9_009.png"
+      ]
+    },
+    {
+      "id": "power10",
+      "name": "Lanca Sagrada",
+      "frames": [
+        "power10_000.png",
+        "power10_001.png",
+        "power10_002.png",
+        "power10_003.png",
+        "power10_004.png",
+        "power10_005.png",
+        "power10_006.png",
+        "power10_007.png",
+        "power10_008.png",
+        "power10_009.png"
+      ]
+    },
+    {
+      "id": "power11",
+      "name": "Julgamento",
+      "frames": [
+        "power11_000.png",
+        "power11_001.png",
+        "power11_002.png",
+        "power11_003.png",
+        "power11_004.png",
+        "power11_005.png",
+        "power11_006.png",
+        "power11_007.png",
+        "power11_008.png",
+        "power11_009.png"
+      ]
+    },
+    {
+      "id": "power12",
+      "name": "Asas de Guerra",
+      "frames": [
+        "power12_000.png",
+        "power12_001.png",
+        "power12_002.png",
+        "power12_003.png",
+        "power12_004.png",
+        "power12_005.png",
+        "power12_006.png",
+        "power12_007.png",
+        "power12_008.png",
+        "power12_009.png"
+      ]
+    },
+    {
+      "id": "power13",
+      "name": "Oraculo Negro",
+      "frames": [
+        "power13_000.png",
+        "power13_001.png",
+        "power13_002.png",
+        "power13_003.png",
+        "power13_004.png",
+        "power13_005.png",
+        "power13_006.png",
+        "power13_007.png",
+        "power13_008.png",
+        "power13_009.png"
+      ]
+    },
+    {
+      "id": "power14",
+      "name": "Eclipse",
+      "frames": [
+        "power14_000.png",
+        "power14_001.png",
+        "power14_002.png",
+        "power14_003.png",
+        "power14_004.png",
+        "power14_005.png",
+        "power14_006.png",
+        "power14_007.png",
+        "power14_008.png",
+        "power14_009.png"
+      ]
+    },
+    {
+      "id": "power15",
+      "name": "Apocalipse",
+      "frames": [
+        "power15_000.png",
+        "power15_001.png",
+        "power15_002.png",
+        "power15_003.png",
+        "power15_004.png",
+        "power15_005.png"
+      ]
+    }
+  ],
+  "trail": [
+    "trail_000.png",
+    "trail_001.png",
+    "trail_002.png",
+    "trail_003.png",
+    "trail_004.png",
+    "trail_005.png",
+    "trail_006.png",
+    "trail_007.png",
+    "trail_008.png",
+    "trail_009.png",
+    "trail_010.png",
+    "trail_011.png",
+    "trail_012.png",
+    "trail_013.png"
+  ],
+  "weapons": {
+    "tiers": [
+      {
+        "tier": 1,
+        "staff": "staff_1.png",
+        "bolt": "bolt_1.png"
+      },
+      {
+        "tier": 2,
+        "staff": "staff_2.png",
+        "bolt": "bolt_2.png"
+      },
+      {
+        "tier": 3,
+        "staff": "staff_3.png",
+        "bolt": "bolt_3.png"
+      },
+      {
+        "tier": 4,
+        "staff": "staff_4.png",
+        "bolt": "bolt_4.png"
+      },
+      {
+        "tier": 5,
+        "staff": "staff_5.png",
+        "bolt": "bolt_5.png"
+      },
+      {
+        "tier": 6,
+        "staff": "staff_6.png",
+        "bolt": "bolt_6.png"
+      },
+      {
+        "tier": 7,
+        "staff": "staff_7.png",
+        "bolt": "bolt_7.png"
+      },
+      {
+        "tier": 8,
+        "staff": "staff_8.png",
+        "bolt": "bolt_8.png"
+      }
+    ],
+    "staff": "staff.png",
+    "bolt": "bolt.png"
+  },
+  "frameSize": 128
+}
